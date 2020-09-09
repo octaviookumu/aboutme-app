@@ -1,0 +1,17 @@
+ <resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Chapatti Assassin</string>
+    <string name="yellow_star">Yellow star</string>
+
+     <string name="bio">Hello, I am the Chapatti Assassin.
+         \n\nI love chapo.
+         \nWell made chapo.
+         \nDoes not have to have a shape.
+         \nShape achia models.
+         \nIf you find one, give me a call.
+         \nThe chapos, not the models.
+         \nThat is all.
+     </string>
+     <string name="what_is_your_nickname">What Is Your Nickname?</string>
+     <string name="done">Done</string>
+ </resources>
